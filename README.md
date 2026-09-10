@@ -20,6 +20,7 @@ The project was created as an earlier learning project to practise JavaScript fu
 - Different quiz categories
 - Immediate feedback after selecting an answer via Visual indication of correct and incorrect answers
 - Score tracking
+- Dynamic progress bar
 - Dynamic display of questions and answers
 - End screen with quiz result
 - Restart functionality
