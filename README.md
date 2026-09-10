@@ -6,13 +6,21 @@ The application allows users to answer multiple-choice questions, receive immedi
 
 The project was created as an earlier learning project to practise JavaScript fundamentals, DOM manipulation and interactive user interfaces.
 
-## Preview
+### Start screen
 
-![Quiz App overview](./assets/screenshot_main.png)
+![Quiz start screen](./assets/screenshots/start_quiz.png)
 
-### Quiz
+### Correct answer
 
-![Quiz App gameplay](./assets/screenshot_quiz.png)
+![Correct answer feedback](./assets/screenshots/correct_answer_quiz.png)
+
+### Wrong answer
+
+![Wrong answer feedback](./assets/screenshots/wrong_answer_quiz.png)
+
+### Final results
+
+![Quiz results](./assets/screenshots/end_quiz.png)
 
 ## Features
 
