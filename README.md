@@ -18,7 +18,7 @@ The project was created as an earlier learning project to practise JavaScript fu
 
 ![Wrong answer feedback](./assets/screenshots/wrong_answer_quiz.png)
 
-### Final results
+### Final result
 
 ![Quiz results](./assets/screenshots/end_quiz.png)
 
